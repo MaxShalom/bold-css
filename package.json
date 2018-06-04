@@ -1,0 +1,23 @@
+{
+  "name": "bold-css",
+  "version": "0.1.0",
+  "description": "A CSS framework for developing websites beautifully and rapidly, containing verbose classes and a bold design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxShalom/grid.git"
+  },
+  "keywords": [
+    "css",
+    "framework"
+  ],
+  "author": "Max Shalom <hello@maxshalom.me> (https://maxshalom.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxShalom/grid/issues"
+  },
+  "homepage": "https://github.com/MaxShalom/grid#readme"
+}

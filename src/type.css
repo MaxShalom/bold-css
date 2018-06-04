@@ -1,0 +1,45 @@
+@font-face {
+  font-family: Poppins;
+  src: url(../assets/fonts/Poppins/Poppins-SemiBold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Poppins-Light;
+  src: url(../assets/fonts/Poppins/Poppins-Light.ttf);
+  font-weight: lighter;
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../assets/fonts/Open_Sans/OpenSans-Regular.ttf);
+  font-weight: normal;
+}
+
+.paragraph {
+  font-family: OpenSans;
+}
+
+.headings {
+  font-family: Poppins;
+}
+
+.lead-in {
+  font-family: Poppins-Light;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.italics {
+  font-style: italic;
+}
+
+.font-size-1 {
+  font-size: 8rem;
+}
